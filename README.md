@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Avin <span><a href="https://www.abintimilsina.com.np/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></span></h1>
+<h1>Hey there, I'm  <span><a href="https://www.abintimilsina.com.np/" style="text-decoration:none; color:white">Avin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></span></h1>
 
 <h4>I'm a novice programmer that has a burning desire to learn and develop my coding abilities.</h4>
 <br>
@@ -32,18 +32,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=avin-t&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=avintimilsina&show_icons=true&count_private=true&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=avin-t&&theme=dark&hide_border=true"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=avintimilsina&&theme=dark&hide_border=true"/>
     </td>
   </tr>
   <tr>
   <td >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avin-t&layout=compact&&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=avintimilsina&layout=compact&&theme=dark">
     </td>
     <td>
-     <a href="https://github.com/avin-t/chirp" target="_blank"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=avin-t&repo=chirp&theme=dark"></a>
+     <a href="https://github.com/avintimilsina/chirp" target="_blank"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=avintimilsina&repo=chirp&theme=dark"></a>
     </td>
    
 </table>
@@ -63,6 +63,6 @@
 <div >
 <h3>👀Github Visits :</h3>
 <div align="center">
-<img  src="https://profile-counter.glitch.me/avin-t/count.svg" />
+<img  src="https://profile-counter.glitch.me/avintimilsina/count.svg" />
 </div>
 </div>
