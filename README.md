@@ -1,4 +1,4 @@
-<h1>Hey there, I'm  <span><a href="https://www.abintimilsina.com.np/" style="text-decoration:none; color:white">Avin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></span></h1>
+<h1>Hey there, I'm Avin<span><a href="https://www.abintimilsina.com.np/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></span></h1>
 
 <h4>I'm a novice programmer that has a burning desire to learn and develop my coding abilities.</h4>
 <br>
